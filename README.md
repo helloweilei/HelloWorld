@@ -1,2 +1,4 @@
-# HelloWorld
-just for test!
+// HelloWorld
+int main(){
+  printf("Hello world!\n");
+}
